@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mernApp/static/css/main.4bac055a.css",
+    "main.js": "/mernApp/static/js/main.9aae60b1.js",
+    "index.html": "/mernApp/index.html",
+    "main.4bac055a.css.map": "/mernApp/static/css/main.4bac055a.css.map",
+    "main.9aae60b1.js.map": "/mernApp/static/js/main.9aae60b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bac055a.css",
+    "static/js/main.9aae60b1.js"
+  ]
+}
